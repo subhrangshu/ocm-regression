@@ -1,4 +1,4 @@
-# ocm-regression
+# OCM Regression
 Global marine phytoplankton estimation using reanalyzed remote sensing with regression models
 
 The primary goal of the work is to continuously monitor oceanic phytoplanktons at a global scale remotely using remote sensing reanalysis data obtained from Marine Copernicus program.
